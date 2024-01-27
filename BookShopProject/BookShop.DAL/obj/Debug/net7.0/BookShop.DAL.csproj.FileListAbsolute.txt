@@ -1,0 +1,30 @@
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.csproj.AssemblyReference.cache
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.AssemblyInfoInputs.cache
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.AssemblyInfo.cs
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.DAL.deps.json
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.DAL.dll
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.DAL.pdb
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.Domain.dll
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.Domain.pdb
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.csproj.CopyComplete
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.dll
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\refint\BookShop.DAL.dll
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.pdb
+C:\Users\zaynu\source\repos\BookShop\BookShop.DAL\obj\Debug\net7.0\ref\BookShop.DAL.dll
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.DAL.deps.json
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.DAL.dll
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.DAL.pdb
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.Domain.dll
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\bin\Debug\net7.0\BookShop.Domain.pdb
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.csproj.AssemblyReference.cache
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.AssemblyInfoInputs.cache
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.AssemblyInfo.cs
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.csproj.CopyComplete
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.dll
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\refint\BookShop.DAL.dll
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\BookShop.DAL.pdb
+C:\Users\zaynu\OneDrive\Рабочий стол\project\BookShop\BookShop.DAL\obj\Debug\net7.0\ref\BookShop.DAL.dll
